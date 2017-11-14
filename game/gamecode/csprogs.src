@@ -1,0 +1,9 @@
+../csprogs.dat
+client/csdefs.qc
+common/commondefs.qc
+client/math.qc
+client/utils.qc
+client/customdefs.qc
+client/menu.qc
+client/waypoints.qc
+client/main.qc

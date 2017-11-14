@@ -1,0 +1,9 @@
+../qwprogs.dat
+server/ssdefs.qc
+common/commondefs.qc
+server/customdefs.qc
+server/combat.qc
+server/player.qc
+server/pathfinding.qc
+server/enemy.qc
+server/main.qc
